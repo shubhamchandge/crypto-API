@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&family=Martian+Mono&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Chivo Mono', monospace;
+}
+.container{
+    
+}
+table{
+    margin-left:20px;
+    margin-top: 20px;
+    width: 900px;
+    height: 700px;
+    border: 2px solid red;
+    color: aliceblue;
+    padding: 20px;
+    background: black;
+    text-align:center;
+    font-size: 15px;
+    font-weight: 500;
+   
+}
+hr{
+    background-color: aqua;
+    height: 5px;
+}
+.color{
+    color: green;
+}
+
+span{
+    
+    color: green;
+}
